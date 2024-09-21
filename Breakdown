@@ -1,0 +1,22 @@
+###
+Objective 1. Fetch Current weather data
+- Information source - Remote Server
+- Operation - Async
+- Functions - Fetch Current Weather function
+            - setTimeout
+            - callbacks
+
+Objective 2. Fetch forecast weather data
+- Information source - Remote Server
+- Operation - Async
+- Functions - Fetch forecast function
+            - setTimeout
+            - callbacks
+
+
+Objective 3. Display the current weather and the forecast in the console.
+
+
+
+
+###
